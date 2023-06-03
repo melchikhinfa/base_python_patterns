@@ -1,0 +1,4 @@
+Поток Thread-1 (multiply_matrices) вычислил result[0][0] = 19
+Поток Thread-2 (multiply_matrices) вычислил result[0][1] = 22
+Поток Thread-3 (multiply_matrices) вычислил result[1][0] = 43
+Поток Thread-4 (multiply_matrices) вычислил result[1][1] = 50
